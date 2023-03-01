@@ -1,0 +1,13 @@
+List of Git commands used:
+- git add .\- git commit -m
+\- git branch update_script
+\- git checkout update_script
+\- touch bash/98
+\- sed -i 's/ALX/ALX School/' bash/alx
+\- git add bash/98 bash/alx
+\- git commit -m 'Update ALX School'
+\- git checkout main
+\- git merge update_script
+\- git branch -d update_script
+\- rm -r js/
+\- git log
