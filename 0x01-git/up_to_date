@@ -11,3 +11,4 @@ List of Git commands used:
 \- git branch -d update_script
 \- rm -r js/
 \- git log
+git pull
